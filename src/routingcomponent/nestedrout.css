@@ -1,0 +1,28 @@
+/* @media screen and(min-width:769px){
+    nav{
+     padding: 28px;
+     border: lightblue;
+    }
+    nav Link{
+     margin-right: 15px;
+    }
+   }; */
+   .container{
+    /* text-align: center; */
+   }
+  .navbarrrr{
+    
+    height: 90px;
+    width: auto;
+    border: 1px solid aqua;
+    padding-left: 100px;
+    background-color: aqua;
+
+    
+  }
+ .navlinkk{
+    margin-right: 15px;
+ }
+  
+   
+   

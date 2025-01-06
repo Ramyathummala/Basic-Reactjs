@@ -1,0 +1,14 @@
+.nav_link{
+  height: 100px;
+  width: auto;
+  border: 2px solid black;  
+}
+.ul-link{
+   display: flex;
+   justify-content: space-evenly;
+ 
+   /* justify-content: space-between; */
+}
+li{
+    text-decoration: none;
+}
